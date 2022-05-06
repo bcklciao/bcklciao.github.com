@@ -2,9 +2,8 @@
 
 _There's nothing here, but there will be, okay_
 
-###web Exercise
+### web Exercise
 
-```markdown
 - [ex2](https://htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex2/index.html)
 - [ex3](https://htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex3/index.html)
 - [ex4](https://htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex4/index.html)
@@ -15,4 +14,4 @@ _There's nothing here, but there will be, okay_
 - [ex7](https://htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex7/index.html)
 - [ex8](https://htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex8/index.html)
 - [ex9](https://htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex9/index.html)
-```
+
