@@ -2,7 +2,9 @@
 
 _There's nothing here, but there will be, okay_
 
-- [ex2](htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex2/index.html)
+###web Exercise
+```
+- [ex2](https://github.com/bcklciao/webExercise/blob/main/ex2/index.html)
 - [ex3](htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex3/index.html)
 - [ex4](htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex4/index.html)
 - [ex5](htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex5/index.html)
@@ -12,3 +14,4 @@ _There's nothing here, but there will be, okay_
 - [ex7](htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex7/index.html)
 - [ex8](htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex8/index.html)
 - [ex9](htmlpreview.github.io/?https://github.com/bcklciao/webExercise/blob/main/ex9/index.html)
+```
